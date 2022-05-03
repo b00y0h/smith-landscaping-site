@@ -1,1 +1,96 @@
-<svg viewBox="0 0 109 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns"><title>Logo</title><g transform="translate(-1470)" figma:type="canvas"><g style="mix-blend-mode:normal" figma:type="vector" transform="translate(1470)" fill="#f40"><use xlink:href="#b" style="mix-blend-mode:normal"/><use xlink:href="#c" style="mix-blend-mode:normal"/><use xlink:href="#d" style="mix-blend-mode:normal"/><use xlink:href="#e" style="mix-blend-mode:normal"/><use xlink:href="#f" style="mix-blend-mode:normal"/></g></g><defs><path id="b" d="M22.735 23.171c.283.323.053.829-.376.829h-5.907c-.285 0-.556-.121-.745-.333l-9.414-10.526v10.36c0 .276-.224.5-.5.5h-5.293c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v9.815l9.141-9.99c.19-.207.457-.325.738-.325h5.762c.437 0 .664.521.366.841l-9.851 10.563 10.287 11.767z"/><path id="c" d="M45.991 24c-.199 0-.38-.118-.459-.301l-2.024-4.669h-10.67l-2.024 4.669c-.079.183-.259.301-.459.301h-5.212c-.366 0-.608-.381-.453-.712l10.782-23c.082-.176.259-.288.453-.288h4.358c.194 0 .37.112.453.287l10.815 23c.156.332-.086.713-.452.713h-5.108zm-11.135-9.668h6.635l-3.317-7.694-3.317 7.694z"/><path id="d" d="M55.525 24c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v18.428h9.759c.276 0 .5.224.5.5v4.072c0 .276-.224.5-.5.5h-15.552z"/><path id="e" d="M75.279.5c0-.276.224-.5.5-.5h9.315c2.667 0 4.959.477 6.874 1.43 1.938.953 3.42 2.338 4.446 4.153 1.026 1.793 1.539 3.926 1.539 6.4 0 2.496-.513 4.652-1.539 6.468-1.003 1.793-2.474 3.166-4.412 4.119-1.915.953-4.218 1.43-6.908 1.43h-9.315c-.276 0-.5-.224-.5-.5v-23zm9.37 18.462c2.371 0 4.138-.579 5.301-1.736 1.163-1.157 1.744-2.905 1.744-5.242 0-2.338-.581-4.074-1.744-5.209-1.163-1.157-2.93-1.736-5.301-1.736h-3.078v13.923h3.078z"/><path id="f" d="M102.913 24c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v23c0 .276-.224.5-.5.5h-5.293z"/></defs></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 109 24" style="enable-background:new 0 0 109 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#17CC31;}
+	.st1{display:none;}
+	.st2{display:inline;}
+	.st3{fill:#FF4400;}
+	.st4{fill:none;}
+	.st5{font-family:'MyriadPro-BlackCond';}
+	.st6{font-size:22.5px;}
+	.st7{font-size:10.8px;}
+</style>
+<g id="Layer_2">
+	<rect x="2.7" y="18.1" class="st0" width="3.7" height="11.3"/>
+	<rect x="5.5" y="19" class="st0" width="3.7" height="11.3"/>
+	<rect x="9.2" y="18.4" class="st0" width="3.7" height="11.3"/>
+	<rect x="11.9" y="20.6" class="st0" width="3.7" height="11.3"/>
+	<rect x="14.9" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="18.6" y="19" class="st0" width="3.7" height="11.3"/>
+	<rect x="20.8" y="21.6" class="st0" width="3.7" height="11.3"/>
+	<rect x="23.9" y="18.4" class="st0" width="3.7" height="11.3"/>
+	<rect x="26.3" y="20.6" class="st0" width="3.7" height="11.3"/>
+	<rect x="29.4" y="21.6" class="st0" width="3.7" height="11.3"/>
+	<rect x="31.3" y="18.3" class="st0" width="3.7" height="11.3"/>
+	<rect x="34" y="21.6" class="st0" width="3.7" height="11.3"/>
+	<rect x="36.7" y="19" class="st0" width="3.7" height="11.3"/>
+	<rect x="40.1" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="43" y="20.3" class="st0" width="3.7" height="11.3"/>
+	<rect x="46.4" y="19" class="st0" width="3.7" height="11.3"/>
+	<rect x="49.3" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="53" y="19.3" class="st0" width="3.7" height="11.3"/>
+	<rect x="55.6" y="21.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="58.7" y="20.8" class="st0" width="3.7" height="11.3"/>
+	<rect x="62.3" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="64.6" y="22.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="67.6" y="19.3" class="st0" width="3.7" height="11.3"/>
+	<rect x="70" y="21.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="73.2" y="22.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="75" y="19.2" class="st0" width="3.7" height="11.3"/>
+	<rect x="77.7" y="22.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="80.4" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="83.8" y="20.8" class="st0" width="3.7" height="11.3"/>
+	<rect x="86.8" y="21.2" class="st0" width="3.7" height="11.3"/>
+	<rect x="63.8" y="19" class="st0" width="3.7" height="11.3"/>
+	<rect x="66.7" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="70.4" y="19.3" class="st0" width="3.7" height="11.3"/>
+	<rect x="73.1" y="21.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="76.1" y="20.8" class="st0" width="3.7" height="11.3"/>
+	<rect x="79.8" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="82" y="22.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="85" y="19.3" class="st0" width="3.7" height="11.3"/>
+	<rect x="87.4" y="21.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="90.6" y="22.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="92.4" y="19.2" class="st0" width="3.7" height="11.3"/>
+	<rect x="95.2" y="22.5" class="st0" width="3.7" height="11.3"/>
+	<rect x="97.8" y="19.9" class="st0" width="3.7" height="11.3"/>
+	<rect x="101.2" y="20.8" class="st0" width="3.7" height="11.3"/>
+	<rect x="104.2" y="21.2" class="st0" width="3.7" height="11.3"/>
+</g>
+<g id="Layer_1" xmlns:figma="http://www.figma.com/figma/ns">
+	<g transform="translate(-1470)" figma:type="canvas" class="st1">
+		<g transform="translate(1470)" figma:type="vector" class="st2">
+			<g>
+				<path id="b" class="st3" d="M22.7,23.2c0.3,0.3,0.1,0.8-0.4,0.8h-5.9c-0.3,0-0.6-0.1-0.7-0.3L6.3,13.1v10.4
+					c0,0.3-0.2,0.5-0.5,0.5H0.5C0.2,24,0,23.8,0,23.5v-23C0,0.2,0.2,0,0.5,0h5.3c0.3,0,0.5,0.2,0.5,0.5v9.8l9.1-10
+					C15.6,0.1,15.9,0,16.2,0h5.8c0.4,0,0.7,0.5,0.4,0.8l-9.9,10.6L22.7,23.2L22.7,23.2z"/>
+			</g>
+			<g>
+				<path id="c" class="st3" d="M46,24c-0.2,0-0.4-0.1-0.5-0.3l-2-4.7H32.8l-2,4.7c-0.1,0.2-0.3,0.3-0.5,0.3h-5.2
+					c-0.4,0-0.6-0.4-0.5-0.7l10.8-23C35.6,0.1,35.7,0,35.9,0h4.4c0.2,0,0.4,0.1,0.5,0.3l10.8,23c0.2,0.3-0.1,0.7-0.5,0.7
+					C51.1,24,46,24,46,24z M34.9,14.3h6.6l-3.3-7.7L34.9,14.3L34.9,14.3z"/>
+			</g>
+			<g>
+				<path id="d" class="st3" d="M55.5,24c-0.3,0-0.5-0.2-0.5-0.5v-23C55,0.2,55.2,0,55.5,0h5.3c0.3,0,0.5,0.2,0.5,0.5v18.4h9.8
+					c0.3,0,0.5,0.2,0.5,0.5v4.1c0,0.3-0.2,0.5-0.5,0.5H55.5z"/>
+			</g>
+			<g>
+				<path id="e" class="st3" d="M75.3,0.5c0-0.3,0.2-0.5,0.5-0.5h9.3c2.7,0,5,0.5,6.9,1.4c1.9,1,3.4,2.3,4.4,4.2
+					c1,1.8,1.5,3.9,1.5,6.4c0,2.5-0.5,4.7-1.5,6.5c-1,1.8-2.5,3.2-4.4,4.1c-1.9,1-4.2,1.4-6.9,1.4h-9.3c-0.3,0-0.5-0.2-0.5-0.5V0.5z
+					 M84.6,19c2.4,0,4.1-0.6,5.3-1.7s1.7-2.9,1.7-5.2c0-2.3-0.6-4.1-1.7-5.2C88.8,5.6,87,5,84.6,5h-3.1V19H84.6z"/>
+			</g>
+			<g>
+				<path id="f" class="st3" d="M102.9,24c-0.3,0-0.5-0.2-0.5-0.5v-23c0-0.3,0.2-0.5,0.5-0.5h5.3c0.3,0,0.5,0.2,0.5,0.5v23
+					c0,0.3-0.2,0.5-0.5,0.5H102.9z"/>
+			</g>
+		</g>
+	</g>
+	
+		<image style="display:none;overflow:visible;" width="925" height="204" xlink:href="A7FD966AB63C16B9.png"  transform="matrix(0.1179 0 0 0.1179 0 -2.901301e-02)">
+	</image>
+	<rect x="3.5" y="0.5" class="st4" width="102.6" height="25.1"/>
+	<text transform="matrix(1 0 0 1 3.4935 16.0256)"><tspan x="0" y="0" class="st5 st6">S</tspan><tspan x="10.1" y="0" class="st5 st6">MI</tspan><tspan x="31.7" y="0" class="st5 st6">T</tspan><tspan x="41.9" y="0" class="st5 st6">H</tspan><tspan x="0" y="7.6" class="st5 st7">LANDSCAPING</tspan></text>
+</g>
+</svg>
