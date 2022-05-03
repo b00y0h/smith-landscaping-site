@@ -1,50 +1,24 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Great Landscaping, Great Service
+image: /img/home-jumbotron.jpeg
+heading: Great Landscaping, Great Service
+subheading: Support local highschool students learning how business works.
 mainpitch:
-  title: Why Kaldi
+  title: Why Smith Landscaping Services
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Esse laboris ea mollit magna ea exercitation sunt qui nisi eiusmod ad in qui. Enim anim qui id id labore deserunt. Ea ut excepteur et aute labore. Exercitation exercitation laborum nisi nisi culpa nisi elit pariatur nostrud. Aliquip qui consequat nostrud anim pariatur qui laboris reprehenderit nisi.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Incididunt ea sint sint consectetur incididunt voluptate nisi. Ipsum ut ex sit exercitation occaecat. Eiusmod proident commodo cillum labore velit in consequat elit eu qui qui ea cupidatat esse. Dolor voluptate amet irure eiusmod dolore culpa consectetur eu.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Consequat eiusmod sit laboris ea nisi eiusmod dolor. Ad ipsum nisi incididunt pariatur excepteur fugiat et consequat proident non. Ipsum voluptate consectetur adipisicing cupidatat nostrud nostrud proident quis officia ad laboris duis consectetur tempor.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Consequat eiusmod sit laboris ea nisi eiusmod dolor. Ad ipsum nisi incididunt pariatur excepteur fugiat et consequat proident non. Ipsum voluptate consectetur adipisicing cupidatat nostrud nostrud proident quis officia ad laboris duis consectetur tempor.
+   
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -52,12 +26,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Great lawncare with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Anim non qui nostrud elit cillum proident non ipsum velit exercitation. Ut mollit tempor ipsum ut. Occaecat veniam sit velit. Aute dolor dolore enim eu esse aliquip ad mollit laboris ullamco. Tempor dolor voluptate elit mollit et esse amet. Dolore sunt adipisicing velit reprehenderit
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
